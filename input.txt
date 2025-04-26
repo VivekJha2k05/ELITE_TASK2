@@ -1,0 +1,3 @@
+Hello, this is a test file.  
+We are using this text to check our compression and decompression tool.
+Let's see how well the program handles this content.  input.txt
